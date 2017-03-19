@@ -11,5 +11,5 @@ Directly transfer files b/w browsers without the need of a server using WebRTC
 ```
     $ git clone https://github.com/prastut/p2p-file-transfer.git 
     $ npm install
-    $ npm run watch
+    $ npm start
 ```
