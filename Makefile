@@ -28,7 +28,7 @@ push: build
 
 run: | node_modules
 	@ if [ "$(WATCH)" = false ]; then \
-		./node_modules/.bin/babel-node src; \
+		./node_modules/.bin/babel-node ./src; \
 	else \
 		./node_modules/.bin/nodemon ./node_modules/.bin/babel-node -i dist src; \
 	fi

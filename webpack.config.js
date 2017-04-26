@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './src/client',
+  entry: './src/client.js',
   target: 'web',
 
   output: {

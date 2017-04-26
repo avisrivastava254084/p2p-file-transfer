@@ -55,7 +55,7 @@ export default class App extends React.Component {
         <footer className="footer">
 
           <p className="byline">
-            Made by <a href="http://patelfenil.github.io" target="_blank">Fenil Patel</a> &amp; <a href="http://prastut.github.io" target="_blank">Prastut Kumar</a>.
+           By <a href="https://avisrivastava254084.github.io/">Aviral Srivasata</a>,<a href="http://patelfenil.github.io" target="_blank"> Fenil Patel, </a> &amp; <a href="http://prastut.github.io" target="_blank">Prastut Kumar</a>.
           </p>
         </footer>
         <script>FilePizza()</script>
